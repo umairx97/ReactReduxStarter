@@ -8,3 +8,7 @@ body {
   justify-content: center;
   align-items: center;
 }
+
+.TB { 
+  border: solid 1px red;
+}
